@@ -6,4 +6,11 @@ Used IEX cloud data to built the algorithm, used metrics of the S&P 200 Index st
     2) Quantitative momentum strategy
     3) Quantitative value strategy
     
-  
+
+
+
+
+##### Note:
+secrets.py has a secret code from IEX cloud, this is a unique code given to users to parse data from their cloud.
+Create an account on IEX cloud platform and get a free IEX token.
+Create a python file, name the variable as IEX_CLOUD_API_TOKEN and give your taken as its value.
